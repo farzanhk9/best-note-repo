@@ -4,7 +4,7 @@ import datetime
 
 # List of random commit messages
 messages = [
-    "Updating progress 🚀",
+    "Updating progress 🚀🚀",
     "Working on something cool 💡",
     "Keeping the streak alive 🔥",
     "Small improvement 🛠",
