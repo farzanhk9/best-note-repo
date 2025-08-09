@@ -6,7 +6,7 @@ import datetime
 messages = [
     "Updating progress 🚀🚀",
     "Working on something cool 💡",
-    "Keeping the streak alive 🔥",
+    "Keeping the streak alive 🔥🔥",
     "Small improvement 🛠",
     "Daily update 📅",
     "Refactoring code ✨",
